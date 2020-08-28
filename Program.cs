@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
-using System.Threading.Tasks;
 
-namespace NeuralNetworksAleppoth4
+namespace NeuralNetworks
 {
     //Dataset Order 	Sepal length 	Sepal width 	Petal length 	Petal width 	Species
     class Program
